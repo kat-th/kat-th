@@ -27,22 +27,6 @@ I’m a BI Engineer at Amazon with a strong focus on **Data Engineering + Analyt
 
 ---
 
-## Highlighted projects
-
-### 🏠 Full-stack apps (recent)
-- **Travelly** — full-stack rental app with listings, bookings, and reviews  
-- **Cashflow App** — real estate analysis app to evaluate investment decisions  
-
-> See pinned repos on my profile for the latest.  
-
----
-
-## What I’m working on now
-- Building more **data-engineering-forward portfolio projects** (ETL, modeling, orchestration, monitoring)
-- Preparing for **AE / DE interviews** (system design for data, SQL depth, storytelling)
-
----
-
 ## Let’s connect
 If you’re hiring for **Data Engineer / Analytics Engineer** roles or want to collaborate:
 - LinkedIn: https://www.linkedin.com/in/katieha
