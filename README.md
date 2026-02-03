@@ -1,9 +1,11 @@
 # Hi, I'm Katie Ha 👋
 
-I’m a BI Engineer at Amazon with a strong focus on **Data Engineering + Analytics Engineering** — building **production pipelines, automation tools, and metrics layers** that power decision-making at scale.
+I’m a data professional with experience across **Data Engineering, Analytics Engineering, and Applied Data Science**, building scalable pipelines, automation tools, and predictive models that power decision-making at scale.
 
-- 🔧 **DE/AE focus:** ETL pipelines, data modeling, performance optimization, analytics enablement  
-- ☁️ **Stack:** Python, SQL, AWS (Glue, Athena, Lambda, S3), Tableau/QuickSight  
+- 🔧 Data Engineering: ETL pipelines, AWS Glue, Athena, performance optimization  
+- 📊 Analytics Engineering: metric design, data modeling, dashboard enablement  
+- 🤖 Applied ML: segmentation, CLV modeling, risk scoring, forecasting  
+- ☁️ Stack: Python, SQL, AWS, R, Tableau, QuickSight   
 - 📍 Boston, MA  
 - 🔗 LinkedIn: https://www.linkedin.com/in/katieha  
 - 💻 GitHub: https://github.com/kat-th  
@@ -13,17 +15,22 @@ I’m a BI Engineer at Amazon with a strong focus on **Data Engineering + Analyt
 ## What I’m best at
 
 ### ⚙️ Data pipelines & performance
-- Designing and owning **end-to-end ETL pipelines** (batch + scheduled workflows)
-- **Query optimization** (partitioning, pre-aggregations, materialized views)
-- Building **curated tables + canonical metrics** to reduce reporting latency and cost
+- Designing and implementing scalable ETL workflows (batch + scheduled jobs)
+- Query optimization (partitioning, pre-aggregations, materialized views)
+- Building curated tables and canonical metrics to reduce reporting latency and cost
 
 ### 🧰 Automation & internal tooling
-- Building **self-service tools** that remove manual steps and speed up migrations
-- Turning one-off analyses into **repeatable production workflows**
+- Building self-service tools that remove manual steps and accelerate analytics workflows
+- Turning one-off analyses into repeatable, production-grade systems
 
-### 📈 Analytics engineering mindset
-- Designing metric definitions and aggregation layers that scale across teams
-- Creating dashboards as a **product** (clear UX, trustworthy metrics, reusable logic)
+### 🤖 Applied modeling & decision systems
+- Developing predictive models (CLV, segmentation, risk scoring, forecasting)
+- Translating model outputs into operational dashboards and decision-ready metrics
+
+### 💻 Software & application building
+- Learning and building full-stack applications that solve real-world problems
+- Comfortable with JavaScript and TypeScript, with experience building end-to-end applications
+
 
 ---
 
